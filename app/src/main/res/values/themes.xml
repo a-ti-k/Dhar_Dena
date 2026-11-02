@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DharDena" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#F5F7F3</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_startup_logo_mark</item>
+        <item name="postSplashScreenTheme">@style/Theme.DharDena</item>
+    </style>
+</resources>

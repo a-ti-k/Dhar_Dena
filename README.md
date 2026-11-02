@@ -1,4 +1,4 @@
-# Dhar-Dena (ধর-দেনা) 💸
+# Dhar-Dena (ধার-দেনা) 💸
 
 A modern, privacy-focused Android application for tracking personal loans, debts, and repayments cleanly and accurately.
 
